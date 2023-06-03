@@ -17,9 +17,6 @@
     text-align: justify;
 }
 
-[data-action="stop"] {
-    display: none;
-}
 
 .indicators {
     display: flex;
@@ -44,4 +41,7 @@
 
 .tns-nav .tns-nav-active {
     background-color: red;
+}
+.tns-nav{
+    text-align: center;
 }
